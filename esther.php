@@ -27,6 +27,7 @@
             <h1>
                 welcome to esther's page
             </h1>
+            <h2>Subtitulo xd </h2>
         </main>
         <footer>
             <!-- place footer here -->
