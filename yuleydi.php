@@ -24,6 +24,7 @@
         </header>
         <main>
             <h1>Welcome to Yuleydi's page</h1>
+            <h2>Suntitulo xd</h2>
         </main>
         <footer>
             <!-- place footer here -->
